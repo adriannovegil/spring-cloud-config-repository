@@ -4,4 +4,4 @@ spring:
 
 ---
 server:
-  contextPath: /uaa
+  contextPath: /uaa2
